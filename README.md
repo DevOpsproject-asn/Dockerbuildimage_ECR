@@ -1,4 +1,4 @@
-# Dockerbuildimage_ECR
+# Docker_build_image_Send_to_ECR
 # Create the index.js file & Dockerfile 
 # AWS ECR create the repository ( private or public as per requirement)
 
