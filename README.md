@@ -23,3 +23,5 @@ Then configure the aws configure
 # aws configure 
 provide the access key and secret key and zone 
 ( create one IAM user account and take the access key and secert key )
+
+#Thank you 
